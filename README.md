@@ -24,6 +24,7 @@ pip install pytest
 pytest
 ```
 
-## Автор
+## Авторы
 
-Kodland
+Dinar
+Erik
